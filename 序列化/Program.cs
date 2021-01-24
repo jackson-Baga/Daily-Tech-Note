@@ -4,7 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Design_Model
+namespace 序列化
 {
-    
+    class Program
+    {
+        static void Main(string[] args)
+        {
+        }
+    }
 }
